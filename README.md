@@ -1,4 +1,4 @@
-# MVC Identity Demo
+# MVC Identity
 
 **Bu proje, ASP.NET Core Identity kullanarak bir MVC uygulamasının nasıl oluşturulacağını ve bazı önemli yapıları nasıl entegre edeceğinizi göstermektedir.
 
